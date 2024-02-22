@@ -1,0 +1,16 @@
+Dado um vetor de regra o algoritmo precisa
+
+Programa geral do G.O.L
+String de 18 
+Matriz 100x100
+Estado = S1 S2
+Medir a cada espaço de tempo o RhO
+(numero de 1 sobre o numero total de casa)
+Plotar o alteraçao RO ao longo do tempo e gerar graficos
+RhO=0,5
+
+distancia de Hamming
+Overlap
+Google Academycs avisar via e-mail
+
+
